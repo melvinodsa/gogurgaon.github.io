@@ -45,14 +45,14 @@ body {
  @media all and (max-width: 980px) { 
   .card {
     width: 70vw;
-    margin: 0 0 0 15vw;
+    margin: 10vh 15vw;
   }  
  }
 
  @media all and (max-width: 736px) {
   .card {
     width: 88vw;
-    margin: 0 0 0 6vw;
+    margin: 10vh 6vw;
   }  
  }
 
